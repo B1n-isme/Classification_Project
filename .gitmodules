@@ -1,0 +1,3 @@
+[submodule "Music_Genre"]
+	path = Music_Genre
+	url = https://github.com/B1n-isme/Music_Genre.git
